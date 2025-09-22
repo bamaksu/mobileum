@@ -1,6 +1,17 @@
-Install Playwright browsers
+# Introduction 
+This is Exercise Q4 Automation with cypress
+
+
+# Install Playwright Browsers
+
 npx playwright install
 
 
-Run all tests
-npx playwright test
+# Getting Started
+Run command "npx palywright" to run all test
+
+
+
+
+
+
