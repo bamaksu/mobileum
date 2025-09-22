@@ -1,5 +1,5 @@
 # Introduction 
-This is Exercise Q4 Automation with cypress
+This is Exercise mobileum with Palywright
 
 
 # Install Playwright Browsers
